@@ -45,30 +45,17 @@ Use + or - to zoom in and out respectively.
 
 <p><h1>Interactive statistical data</h1></p>
 *Click the data points to see further details*
-<style>.embed-container3 { position: relative; padding-top: 100%; height: 0; max-width: 100%; } .embed-container3 iframe, .embed-container3 object, .embed-container3 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container3'>
-  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
-</div>
 
-<style>.embed-container4 { position: relative; padding-top: 100%; height: 0; max-width: 100%; } .embed-container4 iframe, .embed-container4 object, .embed-container4 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container4'>
-  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
-</div>
+  <iframe width="100%" height="100%"seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
 
-<style>.embed-container5 { position: relative; padding-top: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container5 iframe, .embed-container5 object, .embed-container5 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container5'>
-  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=760467361&amp;format=interactive"></iframe>
-</div>
+  <iframe width="100%" height="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
 
-<style>.embed-container6 { position: relative; padding-top: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container6 iframe, .embed-container6 object, .embed-container6 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container6'>
-  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=157589380&amp;format=interactive"></iframe>
-</div>
+  <iframe width="100%" height="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=760467361&amp;format=interactive"></iframe>
 
-<style>.embed-container7 { position: relative; padding-top: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container7 iframe, .embed-container7 object, .embed-container7 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container7'>
-  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
-</div>
+  <iframe width="100%" height="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=157589380&amp;format=interactive"></iframe>
+
+  <iframe width="100%" height="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
+
 
 </body>
 </html>
