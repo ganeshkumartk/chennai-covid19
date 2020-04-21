@@ -2,7 +2,6 @@
 <meta charset="UTF-8">
 <meta name="description" content="Chennai Covid-19 Statistical EDA">
 <meta name="author" content="Ganesh">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
 
 <h1>Chennai containment zone*</h1>
