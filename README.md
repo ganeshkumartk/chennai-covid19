@@ -1,5 +1,8 @@
 <html>
-  
+<meta charset="UTF-8">
+<meta name="description" content="Chennai Covid-19 Statistical EDA">
+<meta name="author" content="Ganesh">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
 
 <h1>Chennai containment zone*</h1>
@@ -7,7 +10,7 @@
 Use + or - to zoom in and out respectively. 
 <style>.embed-container1 { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container1 iframe, .embed-container1 object, .embed-container1 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container1'>
-  <iframe class="render-viewer " src="https://render.githubusercontent.com/view/geojson?commit=39daec6faa24bd7366546d8cf280dc0c4c88c42e&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f436f44655267416e4573682f6368656e6e61692d636f76696431392f333964616563366661613234626437333636353436643863663238306463306334633838633432652f63685f636f6e7461696e6d656e747a6f6e652e67656f6a736f6e&nwo=CoDeRgAnEsh%2Fchennai-covid19&path=ch_containmentzone.geojson&repository_id=256415868&repository_type=Repository#" width="800" height="800">
+  <iframe class="render-viewer " src="https://render.githubusercontent.com/view/geojson?commit=39daec6faa24bd7366546d8cf280dc0c4c88c42e&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f436f44655267416e4573682f6368656e6e61692d636f76696431392f333964616563366661613234626437333636353436643863663238306463306334633838633432652f63685f636f6e7461696e6d656e747a6f6e652e67656f6a736f6e&nwo=CoDeRgAnEsh%2Fchennai-covid19&path=ch_containmentzone.geojson&repository_id=256415868&repository_type=Repository#">
           Viewer requires iframe.
       </iframe>
 </div>
@@ -34,42 +37,38 @@ Use + or - to zoom in and out respectively.
 
 <p><h1>Racing chart</h1></p>
 
-<style>.embed-container2 { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%; } .embed-container2 iframe, .embed-container2 object, .embed-container2 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<style>.embed-container2 { position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container2 iframe, .embed-container2 object, .embed-container2 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container2'>
-  <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src='https://flo.uri.sh/visualisation/1894303/embed'></iframe>
+  <iframe seamless frameborder="0" scrolling="no" src='https://flo.uri.sh/visualisation/1894303/embed'></iframe>
 </div>
 
 
 <p><h1>Interactive statistical data</h1></p>
 *Click the data points to see further details*
-<style>.embed-container3 { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%; } .embed-container3 iframe, .embed-container3 object, .embed-container3 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<style>.embed-container3 { position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container3 iframe, .embed-container3 object, .embed-container3 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container3'>
-  <iframe width="946.039093291274" height="645.5539341034496" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
+  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
 </div>
 
-<style>.embed-container4 { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%; } .embed-container4 iframe, .embed-container4 object, .embed-container4 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<style>.embed-container4 { position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container4 iframe, .embed-container4 object, .embed-container4 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container4'>
-  <iframe width="946.039093291274" height="645.5539341034495" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
+  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
 </div>
 
-<style>.embed-container5 { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%; } .embed-container5 iframe, .embed-container5 object, .embed-container5 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<style>.embed-container5 { position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container5 iframe, .embed-container5 object, .embed-container5 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container5'>
-  <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=760467361&amp;format=interactive"></iframe>
+  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=760467361&amp;format=interactive"></iframe>
 </div>
 
-<style>.embed-container6 { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%; } .embed-container6 iframe, .embed-container6 object, .embed-container6 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<style>.embed-container6 { position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container6 iframe, .embed-container6 object, .embed-container6 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container6'>
-  <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=157589380&amp;format=interactive"></iframe>
+  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=157589380&amp;format=interactive"></iframe>
 </div>
 
-<style>.embed-container7 { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%; } .embed-container7 iframe, .embed-container7 object, .embed-container7 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<style>.embed-container7 { position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container7 iframe, .embed-container7 object, .embed-container7 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container7'>
-  <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
+  <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
 </div>
-
-
-
-   
 
 </body>
 </html>
