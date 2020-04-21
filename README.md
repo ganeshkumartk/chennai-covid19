@@ -36,26 +36,19 @@ Use + or - to zoom in and out respectively.
 
 
 <p><h1>Racing chart</h1></p>
-
-<style>.embed-container2 { position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%; } .embed-container2 iframe, .embed-container2 object, .embed-container2 embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container2'>
-  <iframe seamless frameborder="0" scrolling="no" src='https://flo.uri.sh/visualisation/1894303/embed'></iframe>
-</div>
-
+<iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src='https://flo.uri.sh/visualisation/1894303/embed'></iframe>
 
 <p><h1>Interactive statistical data</h1></p>
 *Click the data points to see further details*
+<iframe width="946.039093291274" height="645.5539341034496" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
 
-  <iframe width="100%" height="100%"seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=1264106326&amp;format=interactive"></iframe>
+<iframe width="946.039093291274" height="645.5539341034495" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
 
-  <iframe width="100%" height="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=538848458&amp;format=interactive"></iframe>
+<iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=760467361&amp;format=interactive"></iframe>
 
-  <iframe width="100%" height="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=760467361&amp;format=interactive"></iframe>
+<iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=157589380&amp;format=interactive"></iframe>
 
-  <iframe width="100%" height="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=157589380&amp;format=interactive"></iframe>
-
-  <iframe width="100%" height="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
-
+<iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
 
 </body>
 </html>
