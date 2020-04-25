@@ -29,9 +29,9 @@ Use + or - to zoom in and out respectively.
 
 
 
-<p><h1>Confirmed cases on 22nd April</h1></p>
+<p><h1>Confirmed cases on 23rd April</h1></p>
 
-<img src="https://imgpile.com/images/IAxJcx.png" alt="Confirmed COVID-19 cases chennai on 22/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
+<img src="https://imgpile.com/images/IAmrwS.png" alt="Confirmed COVID-19 cases chennai on 23/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
 
 
 <p><h1>Racing chart</h1></p>
@@ -46,6 +46,8 @@ Use + or - to zoom in and out respectively.
 <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=760467361&amp;format=interactive"></iframe>
 
 <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=157589380&amp;format=interactive"></iframe>
+
+<iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=2138431134&amp;format=interactive"></iframe>
 
 <iframe width="946.039093291274" height="645.5539341034494" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFLhP4fxBbaIZNf2k4ayHnLXTctQ9VWrnHrMrvGg-ygJvvTwZvreLTJwOz9iUPAT9zYDblVSqz_ADz/pubchart?oid=920946415&amp;format=interactive"></iframe>
 
