@@ -29,9 +29,9 @@ Use + or - to zoom in and out respectively.
 
 
 
-<p><h1>Confirmed cases on 30th April</h1></p>
+<p><h1>Confirmed cases on 1st May</h1></p>
 
-<img src="https://i.postimg.cc/wjMksrk9/photo-2020-04-30-23-04-22.png" alt="Confirmed COVID-19 cases chennai on 30/04/20" style="width:946.039093291274;height:645.5539341034496;border:1">
+<img src="https://i.postimg.cc/x1SBdfsZ/image.png" alt="Confirmed COVID-19 cases chennai on 01/05/2020" style="width:946.039093291274;height:645.5539341034496;border:1">
 
 
 
