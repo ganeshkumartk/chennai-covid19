@@ -27,7 +27,7 @@ Use + or - to zoom in and out respectively.
 
 <p>* Data sources:Contaiment zone data from the GCC app, <a href="https://imgur.com/a/RNyuJiz">Containment streets data list</a></p>
 
-
+> ERROURS REPORTS FROM 03/05/2020 FROM [Health & Family Welfare Department Government of Tamil Nadu](https://stopcorona.tn.gov.in/) and [GCC](https://twitter.com/chennaicorp).
 
 <p><h1>Confirmed cases on 2nd May</h1></p>
 
