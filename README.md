@@ -27,12 +27,12 @@ Use + or - to zoom in and out respectively.
 
 <p>* Data sources:Contaiment zone data from the GCC app, <a href="https://imgur.com/a/RNyuJiz">Containment streets data list</a></p>
 
-> ERROURS REPORTS FROM 03/05/2020 FROM [Health & Family Welfare Department Government of Tamil Nadu](https://stopcorona.tn.gov.in/) and [GCC](https://twitter.com/chennaicorp).
 
-<p><h1>Confirmed cases on 2nd May</h1></p>
+<p><h1>Confirmed cases as on 2nd May</h1></p>
 
 <img src="https://i.postimg.cc/Zn9rg1VN/image.png" alt="Confirmed COVID-19 cases chennai on 02/05/2020" style="width:946.039093291274;height:645.5539341034496;border:1">
 
+>  ERROURS REPORTS FROM 03/05/2020 FROM [Health & Family Welfare Department Government of Tamil Nadu](https://stopcorona.tn.gov.in/) and [GCC](https://twitter.com/chennaicorp).
 
 
 
